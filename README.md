@@ -5,6 +5,9 @@
 An AI-powered knowledge base that ingests articles, generates embeddings, and answers questions using RAG (Retrieval-Augmented Generation). Built on a 100% FREE tech stack.
 
 
+## Architecture
+
+![AI Knowledge Engine](assets/info.png)
 
 \## Resources Used
 
