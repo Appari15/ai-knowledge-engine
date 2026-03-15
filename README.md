@@ -1,17 +1,9 @@
 \# AI Knowledge Engine
 
-
-
 An AI-powered knowledge base that ingests articles, generates embeddings, and answers questions using RAG (Retrieval-Augmented Generation). Built on a 100% FREE tech stack.
 
 
-## Architecture
-
-![AI Knowledge Engine](assets/info.png)
-
 \## Resources Used
-
-
 
 \- OpenRouter API: For FREE LLM chat completions
 
@@ -34,8 +26,6 @@ An AI-powered knowledge base that ingests articles, generates embeddings, and an
 
 
 \## How To Use
-
-
 
 1\. Get FREE API key at openrouter.ai (no credit card needed)
 
